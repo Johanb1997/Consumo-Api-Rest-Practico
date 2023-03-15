@@ -1,0 +1,19 @@
+{
+  "name": "consumo-api-rest-practico",
+  "version": "1.0.0",
+  "description": "Curso Practico de consumo de Api Rest con Javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johanb1997/Consumo-Api-Rest-Practico.git"
+  },
+  "author": "@Johanb1997",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Johanb1997/Consumo-Api-Rest-Practico/issues"
+  },
+  "homepage": "https://github.com/Johanb1997/Consumo-Api-Rest-Practico#readme"
+}
